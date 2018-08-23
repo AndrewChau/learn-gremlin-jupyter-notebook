@@ -1,3 +1,5 @@
+### Work in progress: more chapters to come in the future
+
 # Learning Gremlin with Jupyter Notebooks
 As a believer of learning through examples, I have decided to put my own examples of Gremlin queries inside Jupyter Notebooks for people to actually try out. The course is roughly based on this book (http://kelvinlawrence.net/book/Gremlin-Graph-Guide.pdf) by krlawrence but adapted into Python for execution inside a Jupyter Notebook.
 
