@@ -7,7 +7,7 @@ As a believer of learning through examples, I have decided to put my own example
 
 
 ## Download Notebooks and Sample Data
-Clone or download this repository which contains all the Jupyter Notebooks and a copy of the GraphML sample data. The sample data contains an abundance of air route and airport data provided by krlawrence (https://github.com/krlawrence/graph/blob/master/sample-data/air-routes.graphml).
+Clone or download this repository which contains all the Jupyter Notebooks and a copy of the GraphML sample data. The sample data contains an abundance of air route and airport data provided by krlawrence (https://github.com/krlawrence/graph/blob/master/sample-data).
 
 ## Setup JanusGraph
 ### Install
@@ -51,7 +51,7 @@ Run Juypter inside the repository folder you cloned or downloaded.
 
 
 ## Run the Notebooks
-Now simply run the Juypter notesbooks inside the "Gremlin Notebooks" folder.
+Now simply run the Juypter notebooks inside the "Gremlin Notebooks" folder.
 
 ## Imports
 As seen in all of the notebooks, the necessary packages are imported using the loader. Here is a list of what's available.
@@ -128,3 +128,4 @@ As seen in all of the notebooks, the necessary packages are imported using the l
 - `T.id`
 - `T.key`
 - `T.value`
+
