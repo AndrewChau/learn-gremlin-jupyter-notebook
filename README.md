@@ -40,9 +40,9 @@ Install Jupyter if you haven't already (http://jupyter.org/install).
 You will also need to install the following Python packages:
 - nbfinder
 - gremlinpython
-Please note that the version of gremlinpython you install must match the version of TinkerPop. For example, JanusGraph 0.2 uses TinkerPop 3.2.6. Hence you need to install the corresponding version.
+Please note that the version of gremlinpython you install must match the version of TinkerPop. For example, JanusGraph 0.3.1 uses TinkerPop 3.3.3. Hence you need to install the corresponding version.
 
-`pip3 install gremlinpython==3.2.6`
+`pip3 install gremlinpython==3.3.3`
 
 ### Open Notebooks
 Run Juypter inside the repository folder you cloned or downloaded.
